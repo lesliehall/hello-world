@@ -1,2 +1,3 @@
 # hello-world
-GIthub testing
+Github testing
+The testing out of the Github this is.
